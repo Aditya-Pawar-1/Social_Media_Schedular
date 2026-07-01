@@ -1,11 +1,10 @@
-
-      <svg data-logo="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 41">
-        <g id="logogram" transform="
-    translate(0, 0)
-    rotate(0 20.5 20.5)
-    
-  "><path fill-rule="evenodd" clip-rule="evenodd" d="M20.9053 40.0799C31.951 40.0799 40.9053 31.1256 40.9053 20.0799C40.9053 9.03427 31.951 0.0799561 20.9053 0.0799561C9.85956 0.0799561 0.905273 9.03427 0.905273 20.0799C0.905273 31.1256 9.85956 40.0799 20.9053 40.0799ZM27.1446 9.3968C27.4483 8.31801 26.4014 7.68008 25.4453 8.36125L12.0984 17.8695C11.0615 18.6082 11.2246 20.0799 12.3434 20.0799H15.858V20.0527H22.7078L17.1265 22.022L14.666 30.7631C14.3623 31.8419 15.4091 32.4798 16.3653 31.7986L29.7122 22.2904C30.7491 21.5517 30.5859 20.0799 29.4672 20.0799H24.1374L27.1446 9.3968Z" fill="#F15757"/></g>
-        <g id="logotype" transform=""></g>
-        
-      </svg>
-    
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="150" cy="150" r="150" fill="#3A4BAC"/>
+<path d="M150 275.417C219.266 275.417 275.417 219.266 275.417 150C275.417 80.7345 219.266 24.5835 150 24.5835C80.7342 24.5835 24.5833 80.7345 24.5833 150C24.5833 219.266 80.7342 275.417 150 275.417Z" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M115.144 270.506C104.412 255.38 98.7588 237.237 98.9991 218.691C98.9991 190.724 122.305 123.258 216.511 123.258C227.847 123.117 239.063 125.601 249.28 130.515C259.497 135.429 268.438 142.64 275.405 151.585" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.9897 168.825C27.6634 172.446 30.3029 175.536 33.6182 177.755C36.9334 179.973 40.7961 181.235 44.7818 181.402C60.7284 181.402 62.0176 165.09 72.7492 139.451C104.192 64.3315 168.181 53.8315 205.716 53.8315C215.962 53.9513 226.136 55.5682 235.914 58.6312" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M103.249 194.52C119.45 212.33 141.691 221.39 173.088 221.39C201.985 221.39 240.893 205.207 268.31 191.714" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M98.9991 35.3906C87.4555 58.7082 73.4444 98.2057 75.9393 132.278" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M205.41 123.584C223.881 152.481 222.549 187.817 217.515 212.859" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M80.1587 87.9439C92.3037 84.0133 104.842 81.4227 117.55 80.2183" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
